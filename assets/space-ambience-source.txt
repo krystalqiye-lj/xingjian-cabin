@@ -1,0 +1,16 @@
+星间 / Orbit roomtone
+
+1. “17. flying spaceship interior (roomtone)” — secondbody, Freesound.
+   https://freesound.org/people/secondbody/sounds/614461/
+   CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
+   Synthetic spacecraft interior atmosphere, excerpted, filtered and looped.
+
+2. Polar spacecraft plasmaspheric hiss — NASA / University of Iowa.
+   https://www.nasa.gov/missions/mms/nasa-listens-in-as-electrons-whistle-while-they-work/
+   https://space-audio.org/magnetosound.html
+   NASA and the University of Iowa credit the underlying electromagnetic wave
+   measurements. The University of Iowa Space Audio attribution and terms are
+   at https://space-audio.org/citation.html (CC BY 4.0 for adaptations:
+   https://creativecommons.org/licenses/by/4.0/).
+   Excerpted, pitch-shifted, filtered, looped and blended with the room tone.
+   Electromagnetic measurements rendered audible, not airborne sound in space.
