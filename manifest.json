@@ -6,6 +6,6 @@
     "js": "index.js",
     "css": "tavern.css",
     "author": "lanjiu",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "scenic_theme": { "id": "xingjian", "label": "星间", "order": 20 }
 }
